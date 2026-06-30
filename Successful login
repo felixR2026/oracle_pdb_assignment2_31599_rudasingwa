@@ -1,0 +1,5 @@
+SHOW USER;
+
+It should display:
+
+USER is "RUDASINGWA_PLSQLAUCA_31599"
