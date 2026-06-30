@@ -1,0 +1,3 @@
+GRANT CREATE SESSION TO rudasingwa_plsqlauca_31599;
+GRANT CONNECT, RESOURCE TO rudasingwa_plsqlauca_31599;
+GRANT UNLIMITED TABLESPACE TO rudasingwa_plsqlauca_31599;
